@@ -13,7 +13,7 @@
 
 ## 💼 Experiência
 
-### 📊 Trainee em Análise de Dados — Compass UOL
+###  Trainee em Análise de Dados — Compass UOL
 08/2024 - 12/2024
 
 Durante o programa, desenvolvi conhecimentos em Engenharia e Análise de Dados utilizando:
@@ -25,18 +25,27 @@ Durante o programa, desenvolvi conhecimentos em Engenharia e Análise de Dados u
 
 <br>
 
-## 🛠️ Tecnologias
+## 🛠️ Competências Técnicas
+
+#### Linguagens e Análise de Dados
 
 <div>
   <img height="50" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img height="50" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img height="50" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img height="50" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img height="50" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img height="50" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
 
-<br>
- 
+#### Ferramentas e Softwares
+
+<div>
+  <img height="50" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img height="50" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img height="50" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</div>
+
+--- 
 ## 📫 Contato
 
 <a href="mailto:elianasilvarodrigues643@gmail.com">
