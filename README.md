@@ -1,8 +1,16 @@
-# Olá, eu sou a Eliana! 👋
+<div align="center">
+
+<img src="URL_DO_SEU_GIF_AQUI" width="600">
+
+</div>
+
+<br>
+
+## Olá, eu sou a Eliana! 👋
 
 🎓 Formada em Desenvolvimento de Software Multiplataforma.
 
-📊 Atualmente estou direcionando minha carreira para a área de Análise de Dados, aprofundando meus conhecimentos em SQL, PostgreSQL, Power BI e Python 
+📊 Atualmente estou direcionando minha carreira para a área de Análise de Dados, aprofundando meus conhecimentos em SQL, PostgreSQL, Power BI e Python.
 
 📈 Acredito que dados só geram valor quando são transformados em informações que apoiam a tomada de decisões. Por isso, busco desenvolver projetos que simulem desafios reais encontrados no ambiente corporativo.
 
