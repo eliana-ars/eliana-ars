@@ -1,4 +1,15 @@
-## Olá, eu sou a Eliana👋
+# Olá, eu sou a Eliana! 👋
+
+🎓 Formada em Desenvolvimento de Software Multiplataforma.
+
+📊 Atualmente estou direcionando minha carreira para a área de Análise de Dados, aprofundando meus conhecimentos em SQL, PostgreSQL, Power BI e Python 
+
+📈 Acredito que dados só geram valor quando são transformados em informações que apoiam a tomada de decisões. Por isso, busco desenvolver projetos que simulem desafios reais encontrados no ambiente corporativo.
+
+🚀 Aqui você encontrará meus projetos de Análise de Dados, SQL, Python, Business Intelligence e Visualização de Dados.
+
+🌱 Estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades para construir soluções cada vez mais completas.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Eli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
